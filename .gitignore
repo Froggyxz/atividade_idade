@@ -1,5 +1,5 @@
 .idea
 #.idea\
 #.target\
-#*iml
-*.iml
+#iml
+.iml
